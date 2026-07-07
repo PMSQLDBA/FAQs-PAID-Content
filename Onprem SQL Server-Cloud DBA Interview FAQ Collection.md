@@ -1,7 +1,7 @@
 <img width="2720" height="4720" alt="onprem_cloud_dba_faq_collection_infographic" src="https://github.com/user-attachments/assets/4dba2cbe-6e9c-453e-805a-0d6f701e1499" />
+
 Complete SQL Server & Cloud DBA Interview FAQ Collection is now live. 🚀
 /***************************************************************************/
-
 Grab it here 👇
 https://payhip.com/b/XcuVk
 
