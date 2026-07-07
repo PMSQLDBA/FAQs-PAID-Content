@@ -1,5 +1,6 @@
 Complete SQL Server & Cloud DBA Interview FAQ Collection is now live. 🚀
 /***************************************************************************/
+
 Grab it here 👇
 https://payhip.com/b/XcuVk
 
@@ -21,5 +22,6 @@ Whether you're prepping for your next Senior DBA interview, screening candidates
 
 Built from hands-on experience in regulated financial services environments.
 /***************************************************************************/
+
 Grab it here 👇
 https://payhip.com/b/XcuVk
