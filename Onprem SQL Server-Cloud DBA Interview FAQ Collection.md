@@ -35,4 +35,13 @@ Built from hands-on experience in regulated financial services environments.
 /***************************************************************************/
 
 Grab it here 👇
+
+https://ko-fi.com/s/42cf00ae39
+
+(or)
+
+https://www.sqldbachamps.com/products/Onprem-SQL-Server-Cloud-DBA--Interview-FAQ-Collection-6a4d3afe7f33853091432183?dgps_s=ucpd&dgps_t=cp_u
+
+(or)
+
 https://payhip.com/b/XcuVk
