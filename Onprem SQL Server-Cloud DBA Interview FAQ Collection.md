@@ -1,12 +1,15 @@
-<img width="2720" height="4720" alt="onprem_cloud_dba_faq_collection_infographic" src="https://github.com/user-attachments/assets/4dba2cbe-6e9c-453e-805a-0d6f701e1499" />
-
 Complete SQL Server & Cloud DBA Interview FAQ Collection is now live. 🚀
 /***************************************************************************/
 Grab it here 👇
+
 https://ko-fi.com/s/42cf00ae39
+
 (or)
+
 https://www.sqldbachamps.com/products/Onprem-SQL-Server-Cloud-DBA--Interview-FAQ-Collection-6a4d3afe7f33853091432183?dgps_s=ucpd&dgps_t=cp_u
+
 (or)
+
 https://payhip.com/b/XcuVk
 
 1,000 point-wise Q&As. 
@@ -24,6 +27,8 @@ What's inside, across 6 domains:
  → Production support & leadership (incident response, SOX/PCI-DSS)
 
 Whether you're prepping for your next Senior DBA interview, screening candidates, or just leveling up your day-to-day knowledge — this is a reference you'll keep coming back to.
+
+<img width="2720" height="4720" alt="onprem_cloud_dba_faq_collection_infographic" src="https://github.com/user-attachments/assets/4dba2cbe-6e9c-453e-805a-0d6f701e1499" />
 
 Built from hands-on experience in regulated financial services environments.
 /***************************************************************************/
