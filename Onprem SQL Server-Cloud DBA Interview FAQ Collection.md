@@ -1,5 +1,6 @@
 Complete SQL Server & Cloud DBA Interview FAQ Collection is now live. 🚀
 /***************************************************************************/
+
 Grab it here 👇
 
 https://ko-fi.com/s/42cf00ae39
